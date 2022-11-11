@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @linlishui
 - 👀 I’m interested in reading and coding...
-- 🌱 I’m currently learning ...
 - 📫 E-mail:lishui.lin@qq.com
 
 <!---
